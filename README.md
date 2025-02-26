@@ -1,4 +1,4 @@
-<h1>Starter Kit Setup Guide</h1>
+<h1>React-Laravel-Inertia-Shadcdn</h1>
 
 <h2>Prerequisites</h2>
 <p>Ensure you have the following installed on your system:</p>
